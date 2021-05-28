@@ -5,16 +5,17 @@ Hi there,welcome to my github pages.
 
 
 
-## &#x1f9f8; About Me
+## :bowtie: About Me 
 
-- &#x1f481; **Identity**: RedTeamer | 08Sec Team Member
+-  :cn: **Identity**: Chinese | RedTeamer | 08Sec Team Member
 - &#x1f4bb; **Skills**: Web Pentest/Avoid Anit-virus/Intranet Pentest
-- &#x1f4c3; **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
+-  :jack_o_lantern: **Motto**: Just because u use the 'Lucida Console' font with a green colour with a black background,doesnt prove u are a 'hacker'!
+-  :notebook: **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
 - &#x1f3e2; **Company**: Unknown
-- &#x1f47e; **Hobby**: you guess
-- &#x1f4ac; **Motto**: 
-- &#x1f4f1; **Wechat**: 
-- &#x1f4e7; **Email**: zha0gongz1@protonmail.com
+-  :dizzy: **Hobby**: you guess
+- &#x1f4f1; **Wechat**: Unknown
+-  :dart:**Try**: I want to create a technical team, but no detailed idea. If u have a good opinion, please contact me.
+-  :e-mail:**Email**: zha0gongz1@protonmail.com
 
 
 
