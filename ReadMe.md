@@ -8,7 +8,7 @@ Hi there,welcome to my github pages.
 ## :bowtie: About Me 
 
 -  :cn: **Identity**: Chinese | RedTeamer | 08Sec Team Member
-- &#x1f4bb; **Skills**: Web Pentest/Avoid Anit-virus/Intranet Pentest
+- &#x1f4bb; **Skills**: Web Pentest | Avoid Anit-virus | Intranet Pentest
 -  :jack_o_lantern: **Motto**: Just because u use the 'Lucida Console' font with a green colour with a black background,doesnt prove u are a 'hacker'!
 -  :notebook: **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
 - &#x1f3e2; **Company**: Unknown
