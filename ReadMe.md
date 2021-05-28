@@ -7,13 +7,12 @@ Hi there,welcome to my github pages.
 
 ## &#x1f9f8; About Me
 
-- &#x1f481; **Identity**: RedTeamer|08Sec Team Member
+- &#x1f481; **Identity**: RedTeamer | 08Sec Team Member
 - &#x1f4bb; **Skills**: Web Pentest/Avoid Anit-virus/Intranet Pentest
 - &#x1f4c3; **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
 - &#x1f3e2; **Company**: Unknown
 - &#x1f47e; **Hobby**: you guess
 - &#x1f4ac; **Motto**: 
-- &#x1f0cf; **Steam**: 
 - &#x1f4f1; **Wechat**: 
 - &#x1f4e7; **Email**: zha0gongz1@protonmail.com
 
