@@ -1,4 +1,4 @@
-﻿## HI,I'm zha0gongz1! &#x1f44b;
+﻿## Hey,I'm zha0gongz1! &#x1f44b;
 ![GitHub followers](https://img.shields.io/github/followers/An0ny-m0us?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/An0ny-m0us?style=social)
 
 Hi there,welcome to my github pages.
@@ -7,10 +7,10 @@ Hi there,welcome to my github pages.
 
 ## &#x1f9f8; Things U Might Wanna Know 
 
-- &#x1f481; **Identity**: Cyber Security Researcher
-- &#x1f4bb; **Skills**: JavaWeb / JavaSec / RASP / IAST
+- &#x1f481; **Identity**: RedTeamer
+- &#x1f4bb; **Skills**: Web Pentest/Avoid Anit-virus/
 - &#x1f4c3; **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
-- &#x1f3e2; **Company**: I'm currently working at [JiaChengSec](http://www.jiachengsec.com/),but I'm always open to new opportunities,feel free to contact me.
+- &#x1f3e2; **Company**: 
 - &#x1f47e; **Hobby**: &#x1f3b9; complete beginner / &#x1f4d5; never stop reading /  &#x1f3ca; only breast stroke
 - &#x1f4ac; **Motto**: Fake it till you make it.
 - &#x1f0cf; **Steam**: 
