@@ -8,11 +8,11 @@ Hi there,welcome to my github pages.
 ## &#x1f9f8; Things U Might Wanna Know 
 
 - &#x1f481; **Identity**: RedTeamer
-- &#x1f4bb; **Skills**: Web Pentest/Avoid Anit-virus/
-- &#x1f4c3; **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
-- &#x1f3e2; **Company**: 
-- &#x1f47e; **Hobby**: &#x1f3b9; complete beginner / &#x1f4d5; never stop reading /  &#x1f3ca; only breast stroke
-- &#x1f4ac; **Motto**: Fake it till you make it.
+- &#x1f4bb; **Skills**: Web Pentest/Avoid Anit-virus/Intranet Pentest
+- &#x1f4c3; **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
+- &#x1f3e2; **Company**: Unknown
+- &#x1f47e; **Hobby**: you guess
+- &#x1f4ac; **Motto**: 
 - &#x1f0cf; **Steam**: 
 - &#x1f4f1; **Wechat**: 
 - &#x1f4e7; **Email**: 
