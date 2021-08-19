@@ -11,7 +11,6 @@
 -  :cn: **Identity**: Chinese | RedTeamer | 
 - &#x1f4bb; **Skills**: Web Pentest | Bypass Anit-virus | Intranet Pentest | Social engineering 
 -  :jack_o_lantern: **Motto**: Just because u use the 'Lucida Console' font with a green colour with a black background,doesnt prove u are a 'hacker'!
--  :notebook: **Blog**: https://www.cnblogs.com/H4ck3R-XiX/
 - &#x1f3e2; **Company**: Unknown
 -  :dizzy: **Hobby**: you guess
 - &#x1f4f1; **Wechat**: Unknown
