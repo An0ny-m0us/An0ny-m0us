@@ -4,7 +4,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=An0ny-m0us)        ![GitHub followers](https://img.shields.io/github/followers/An0ny-m0us?style=social)       ![GitHub User's stars](https://img.shields.io/github/stars/An0ny-m0us?style=social)
 
 
-<p align="center"> <img src="/guochi.jpg" alt="勿忘国耻" height=300/> </p>
+<p align="center"> <img src="/guochi_1.png" alt="勿忘国耻" height=300/> </p>
 
 ## :busts_in_silhouette: About Me 
 
