@@ -1,7 +1,7 @@
 
  <h1 align="center"> Hey guys,<br> I'm zha0gongz1  :dragon:</h1>
 
-<img src="https://komarev.com/ghpvc/?username=An0ny-m0us" alt="hhhrrrttt222111" />    ![GitHub followers](https://img.shields.io/github/followers/An0ny-m0us?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/An0ny-m0us?style=social)
+![An0ny-m0us](https://komarev.com/ghpvc/?username=An0ny-m0us)        ![GitHub followers](https://img.shields.io/github/followers/An0ny-m0us?style=social)       ![GitHub User's stars](https://img.shields.io/github/stars/An0ny-m0us?style=social)
 
 **Welcome to my github pages.**
 
