@@ -1,4 +1,5 @@
-﻿## &#x1f44b;Hey, I'm zha0gongz1! 
+
+ <h1 align="center"> Hey guys,<br> I'm zha0gongz1  :dragon:</h1>
 ![GitHub followers](https://img.shields.io/github/followers/An0ny-m0us?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/An0ny-m0us?style=social)
 
 Hi there,welcome to my github pages.
