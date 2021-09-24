@@ -1,7 +1,7 @@
 
  <h1 align="center"> Hey guys,<br> I'm zha0gongz1  :dragon:</h1>
 
-![profile views](https://komarev.com/ghpvc/?username=An0ny-m0us)        ![GitHub followers](https://img.shields.io/github/followers/An0ny-m0us?style=social)       ![GitHub User's stars](https://img.shields.io/github/stars/An0ny-m0us?style=social)
+![profile views](https://komarev.com/ghpvc/?username=zha0gongz1)        ![GitHub followers](https://img.shields.io/github/followers/zha0gongz1?style=social)       ![GitHub User's stars](https://img.shields.io/github/stars/zha0gongz1?style=social)
 
 
 <p align="center"> <img src="/guochi_1.png" alt="勿忘国耻" height=300/> </p>
@@ -22,19 +22,19 @@
 
 ##  :hibiscus: My GitHub Stats
 
-[![su18's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0ny-m0us&show_icons=true)](https://www.cnblogs.com/H4ck3R-XiX/)
+[![su18's GitHub stats](https://github-readme-stats.vercel.app/api?username=zha0gongz1&show_icons=true)](https://www.cnblogs.com/H4ck3R-XiX/)
 
 
 
 ## :octocat: Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0ny-m0us&hide=html)](https://www.cnblogs.com/H4ck3R-XiX/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zha0gongz1&hide=html)](https://www.cnblogs.com/H4ck3R-XiX/)
 
 
 
 ## :watermelon: Github Visitors
 
 
-[![Top Langs](https://profile-counter.glitch.me/An0ny-m0us/count.svg)](https://www.cnblogs.com/H4ck3R-XiX/)
+[![Top Langs](https://profile-counter.glitch.me/zha0gongz1/count.svg)](https://www.cnblogs.com/H4ck3R-XiX/)
 
 
