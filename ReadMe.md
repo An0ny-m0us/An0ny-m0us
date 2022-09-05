@@ -19,22 +19,7 @@
 
 
 
-
 ##  :hibiscus: My GitHub Stats
 
-[![su18's GitHub stats](https://github-readme-stats.vercel.app/api?username=zha0gongz1&show_icons=true)](https://www.cnblogs.com/H4ck3R-XiX/)
-
-
-
-## :octocat: Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zha0gongz1&hide=html)](https://www.cnblogs.com/H4ck3R-XiX/)
-
-
-
-## :watermelon: Github Visitors
-
-
-[![Top Langs](https://profile-counter.glitch.me/zha0gongz1/count.svg)](https://www.cnblogs.com/H4ck3R-XiX/)
-
-
+| <a href="https://www.cnblogs.com/H4ck3R-XiX/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zha0gongz1&show_icons=true" alt="zha0gongz1's github stats" /></a> | <a href="https://www.cnblogs.com/H4ck3R-XiX/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zha0gongz1&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
+| ------------- | ------------- |
