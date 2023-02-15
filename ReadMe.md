@@ -4,7 +4,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=zha0gongz1)        ![GitHub followers](https://img.shields.io/github/followers/zha0gongz1?style=social)       ![GitHub User's stars](https://img.shields.io/github/stars/zha0gongz1?style=social)
 
 
-<p align="center"> <img src="./FAa_7B0VkAMg4DD.jpg" alt="pic" height=500/> </p>
+<p align="center"> <img src="./Fh_BXc1aMAEWPQv.jpg" alt="pic" height=500/> </p>
 
 ## :busts_in_silhouette: About Me 
 
